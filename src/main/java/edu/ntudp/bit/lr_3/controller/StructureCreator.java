@@ -1,4 +1,4 @@
-package edu.ntudp.bit.lr_2.controller;
+package edu.ntudp.bit.lr_3.controller;
 
 public interface StructureCreator<T> {
     T create();
